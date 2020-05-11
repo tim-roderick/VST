@@ -35,11 +35,15 @@ To evaluate the models you have created, run the following command. Details of p
 ### Visualise
 Limited visualisation examples can be found in the notebook visualisations.ipynb. Examples include how to select a specific output from the evaluation set to isolate a machine summary. Example visualisations include...
 
-<object data="./images/attention_visual_decoder.pdf" type="application/pdf" width="40%" height="40%">
+<!-- <object data="./images/attention_visual_decoder.pdf" type="application/pdf" width="40%" height="40%">
     <embed src="./images/attention_visual_decoder.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it</p>
     </embed>
-</object>
+</object> -->
+<div align="center">
+  <img src="./images/attention_visual_decoder.jpg" alt="Visualisation of decoder attention heads" width="50%">
+</div>
+
 
 To generate actual summaries, [pytorch-vsumm-reinforce](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce#visualize-summary) provide details on how to generate an MP4 video from a set of frames using a machine summary produced by the model.
 
