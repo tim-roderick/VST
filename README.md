@@ -1,5 +1,5 @@
 # VST: Video Summarisation Transformer
-This repository is an implementation of the model found in the project Generating Summarised Videos Using Transformers.
+This repository is an implementation of the model found in the project Generating Summarised Videos Using Transformers which can be found [on my website](https://timroderick.com/vst.pdf).
 This was my Masters Project from 2020. The implementation of the model is in PyTorch with the following details.
 
 ## Requirements
